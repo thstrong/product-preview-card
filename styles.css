@@ -105,11 +105,12 @@ button:hover {
 @media (max-width:580px) {
 
     .card {
-        width: 65%;
+        width: 80%;
+        font-size: 12px;
     }
 
     .product-img {
-        height: 17rem;
+        height: 15rem;
         border-radius: 10px 10px 0 0;
     }
 
@@ -122,4 +123,24 @@ button:hover {
         height: 23rem;
         border-radius: 0 0 10px 10px;
     }
+
+    .name {
+        font-size: 27px;
+        line-height: 30px;
+    }
+
+    .description {
+        font-size: 14px;
+    }
+
+    .price {
+        display: flex;
+        align-items: center;
+        gap: 50px;
+    }
+
+    .actual-price {
+        font-size: 15px;
+    }
+
 }
