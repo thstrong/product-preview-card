@@ -16,6 +16,7 @@ html {
 
 .card {
     display: flex;
+    margin: 2rem;
     max-width: 600px;
     max-height: 450px;
     border-radius: 10px;
