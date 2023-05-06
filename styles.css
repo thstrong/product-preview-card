@@ -84,13 +84,19 @@ button {
     font-weight: 750;
 }
 
+img.cart {
+    padding-right: 10px;
+}
+
 button {
     background-color: hsl(158, 36%, 37%);
 }
 
-img.cart {
-    padding-right: 10px;
+button:hover {
+    cursor: pointer;
+    background-color: hsl(212, 21%, 14%);
 }
+
 
 .attribution {
     width: span 2;
