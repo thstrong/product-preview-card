@@ -39,7 +39,7 @@ img.bottle {
 .type {
     text-transform: uppercase;
     padding-top: 10px;
-    padding-left: 10px;
+    padding-left: 20px;
     color: hsl(228, 12%, 48%);
     letter-spacing: 5px;
 }
